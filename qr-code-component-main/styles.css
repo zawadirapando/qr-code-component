@@ -1,6 +1,8 @@
 body {
     background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
 }
+
 .card{
     width: fit-content;
     background-color: hsl(0, 0%, 100%);
@@ -16,12 +18,12 @@ img{
     text-align: center;
 }
 
-h1{
+h2{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 
-h3{
+h4{
     color: hsl(216, 15%, 48%);
     font-weight: 400;
 }
